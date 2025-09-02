@@ -11,7 +11,22 @@ password:Vishaaal@11
 - Postman (for API testing)
 
 ---
+First-Time Usage Note
 
+When you open the application for the very first time, you will not see any charts, sales data, or purchase records in the dashboard.
+This is because the system starts with an empty database.
+
+To view data in the UI:
+
+Insert Products/Data
+
+You can add entries directly through the web application UI (e.g., adding products, sales, or purchases).
+
+Alternatively, you can insert data using Postman by calling the provided API endpoints.
+
+Refresh the Dashboard
+
+Once you have inserted data (either through the UI or APIs), the charts and tables in the dashboard will update automatically to reflect your entries.
 ## Installation
 
 ### Frontend
