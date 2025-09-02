@@ -1,5 +1,8 @@
-# Project Setup & API Guide
 
+# Project Setup & API Guide
+#credentials 
+email: kiral2084@gmail.com
+password:Vishaaal@11
 ## Prerequisites
 
 - Node.js (LTS version recommended)
