@@ -35,7 +35,7 @@ Once you have inserted data (either through the UI or APIs), the charts and tabl
 cd frontend
 npm install
 npm run dev
-
+Here ui i have provided actual deployed backend url for api calls if u need to test in your system chnage backend url to your required url.
 ### Backend
 
 cd backend
